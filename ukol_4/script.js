@@ -6,5 +6,6 @@ if(number1 > number2 && number3) {
     console.log(number1)
 } else if (number2 > number3) {
     console.log(number2)
-} else
+} else {
     console.log(number3)
+}
